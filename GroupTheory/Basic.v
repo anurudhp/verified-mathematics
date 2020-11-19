@@ -1,4 +1,4 @@
-Require Import Group.
+Require Import Math.GroupTheory.Group.
 
 Theorem id_op_id_eq_id : forall G op id (g : Group G op id), op id id = id.
 Proof.
