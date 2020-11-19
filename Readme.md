@@ -10,3 +10,9 @@ Building
 --------
 Run `coq_makefile -f _CoqProject -o Makefile` to generate the Makefile.
 Targets can now be built using `make <target>.vo`
+
+Topics
+------
+
+1. [Group Theory](GroupTheory)
+
